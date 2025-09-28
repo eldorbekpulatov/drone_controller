@@ -11,7 +11,7 @@ import SwiftUI
 struct DroneControllerApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentView();
         }
     }
 }
